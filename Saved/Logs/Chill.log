@@ -677,3 +677,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.27-21.00.44:292][725]LogWindows: Warning: CreateProc failed: Nie można odnaleźć określonego pliku. (0x00000002)
 [2020.12.27-21.00.44:292][725]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
 [2020.12.27-21.01.40:256][397]LogSlate: Window 'Source Control Login' being destroyed
+[2020.12.27-21.03.47:735][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2020.12.27-21.04.03:378][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_4)
+[2020.12.27-21.04.03:872][399]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2020.12.27-21.04.16:386][486]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.27-21.04.16:419][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Maps/FlyingExampleMap" FILE="E:/Ue4Projekty/Chill/ChillProject/Content/FlyingBP/Maps/FlyingExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.27-21.04.16:471][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.12.27-21.04.16:692][486]LogSavePackage: Moving 'E:/Ue4Projekty/Chill/ChillProject/Saved/FlyingExampleMap3DEB731E40FA8249C7F66A8D815D0B2E.tmp' to 'E:/Ue4Projekty/Chill/ChillProject/Content/FlyingBP/Maps/FlyingExampleMap.umap'
+[2020.12.27-21.04.16:827][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Maps/FlyingExampleMap_BuiltData" FILE="E:/Ue4Projekty/Chill/ChillProject/Content/FlyingBP/Maps/FlyingExampleMap_BuiltData.uasset" SILENT=true
+[2020.12.27-21.04.17:147][486]LogSavePackage: Moving 'E:/Ue4Projekty/Chill/ChillProject/Saved/FlyingExampleMap_BuiltData94FA08484EA9218D2FE74CA5AA653DAA.tmp' to 'E:/Ue4Projekty/Chill/ChillProject/Content/FlyingBP/Maps/FlyingExampleMap_BuiltData.uasset'
+[2020.12.27-21.04.17:181][486]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.27-21.04.17:181][486]LogContentValidation: Display: Validating World /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap
+[2020.12.27-21.04.17:181][486]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FlyingBP/Maps/FlyingExampleMap_BuiltData.FlyingExampleMap_BuiltData
